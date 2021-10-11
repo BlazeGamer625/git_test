@@ -1,0 +1,1 @@
+This is BlazeGamer625’s first git project!
